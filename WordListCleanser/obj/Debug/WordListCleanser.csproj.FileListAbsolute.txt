@@ -1,0 +1,8 @@
+C:\Users\novgr\source\repos\WordListCleanser\WordListCleanser\bin\Debug\WordListCleanser.exe.config
+C:\Users\novgr\source\repos\WordListCleanser\WordListCleanser\bin\Debug\WordListCleanser.exe
+C:\Users\novgr\source\repos\WordListCleanser\WordListCleanser\bin\Debug\WordListCleanser.pdb
+C:\Users\novgr\source\repos\WordListCleanser\WordListCleanser\obj\Debug\WordListCleanser.csproj.AssemblyReference.cache
+C:\Users\novgr\source\repos\WordListCleanser\WordListCleanser\obj\Debug\WordListCleanser.csproj.CoreCompileInputs.cache
+C:\Users\novgr\source\repos\WordListCleanser\WordListCleanser\obj\Debug\WordListCleanser.exe
+C:\Users\novgr\source\repos\WordListCleanser\WordListCleanser\obj\Debug\WordListCleanser.pdb
+C:\Users\novgr\source\repos\WordListCleanser\WordListCleanser\obj\Debug\WordListCleanser.csproj.SuggestedBindingRedirects.cache
